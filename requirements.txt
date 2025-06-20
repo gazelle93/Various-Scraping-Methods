@@ -1,0 +1,21 @@
+# Core dependencies
+requests
+beautifulsoup4
+pdfminer.six
+pdfplumber
+PyMuPDF
+PyPDF2
+goose3
+trafilatura
+readability-lxml
+
+# OCR support
+pytesseract
+pdf2image
+Pillow
+
+# Optional: AWS Textract OCR support
+boto3
+
+# Optional: For handling URLs robustly
+tldextract
